@@ -3,6 +3,7 @@
 ## コンソールアプリ
 * [C](./console_C)
 * [Python](./console_Python)
+* [Java](./console_Java)
 * [JavaScript/node.js](./console_JavaScript_node.js)
 * [deno](./console_deno)
 * [kotlin](./console_kotlin)
