@@ -7,6 +7,8 @@
 * [JavaScript/node.js](./console_JavaScript_node.js)
 * [deno](./console_deno)
 * [kotlin](./console_kotlin)
+* [Go](./console_Go)
+* [Rust](./console_Rust)
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
 
