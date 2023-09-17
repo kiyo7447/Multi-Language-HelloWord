@@ -1,12 +1,13 @@
 ﻿# Multi Language Hello Hello
 このリポジトリは、複数言語でHello Worldを出力するためのリポジトリです。
 ## コンソールアプリ
-* [c](./console_c)
-* [python](./console_python)
+* [C](./console_C)
+* [Python](./console_Python)
+* [JavaScript](./console_JavaScript_node.js)
 * [deno](./console_demo)
 * [kotlin](./console_kotlin)
 ## デスクトップアプリ
-* [electron](./desktop_electron)
+* [Electron](./desktop_Electron)
 
 
 ## モバイルアプリ
