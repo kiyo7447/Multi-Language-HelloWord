@@ -4,7 +4,7 @@
 * [C](./console_C)
 * [Python](./console_Python)
 * [JavaScript](./console_JavaScript_node.js)
-* [deno](./console_demo)
+* [deno](./console_deno)
 * [kotlin](./console_kotlin)
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
