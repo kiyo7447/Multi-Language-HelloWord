@@ -13,6 +13,7 @@
 * [kotlin](./console_kotlin)
 * [COBOL](./console_COBOL)
 * [PHP](./console_PHP)
+* [Ruby](./console_Ruby)
 
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
