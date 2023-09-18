@@ -14,7 +14,8 @@
 * [COBOL](./console_COBOL)
 * [PHP](./console_PHP)
 * [Ruby](./console_Ruby)
-
+* [swift](./console_swift)
+* [Scala](./console_Scala)
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
 
