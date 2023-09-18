@@ -50,8 +50,4 @@
 * TypeScript Node.js Express
 
 
-# 参考
-README.mdの書き方
-# インストール方法
 
-# 実行方法
