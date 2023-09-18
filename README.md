@@ -7,7 +7,7 @@
 * [Python](./console_Python)
 * [Java](./console_Java)
 * [JavaScript/node.js](./console_JavaScript_node.js)
-* [deno](./console_deno)
+* [TypeScript/Deno](./console_TypeScript_Deno)
 * [kotlin](./console_kotlin)
 * [Go](./console_Go)
 * [Rust](./console_Rust)
