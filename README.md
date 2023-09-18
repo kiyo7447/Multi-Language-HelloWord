@@ -2,6 +2,8 @@
 このリポジトリは、複数言語でHello Worldを出力するためのリポジトリです。
 ## コンソールアプリ
 * [C](./console_C)
+* [C++](./console_C++)
+* [C#](./console_C#)
 * [Python](./console_Python)
 * [Java](./console_Java)
 * [JavaScript/node.js](./console_JavaScript_node.js)
@@ -9,6 +11,7 @@
 * [kotlin](./console_kotlin)
 * [Go](./console_Go)
 * [Rust](./console_Rust)
+* [COBOL](./console_COBOL)
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
 
