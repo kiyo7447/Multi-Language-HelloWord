@@ -4,7 +4,7 @@ FROM denoland/deno:latest
 # 作業ディレクトリを設定
 WORKDIR /app
 
-# ローカルのhello-world.tsをコンテナにコピー
+# ローカルのworld.tsをコンテナにコピー
 COPY hello.ts .
 
 # スクリプトを実行
