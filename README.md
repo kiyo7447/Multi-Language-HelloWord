@@ -4,14 +4,16 @@
 * [C](./console_C)
 * [C++](./console_C++)
 * [C#](./console_C%23)
+* [Rust](./console_Rust)
 * [Python](./console_Python)
+* [Go](./console_Go)
 * [Java](./console_Java)
 * [JavaScript/node.js](./console_JavaScript_node.js)
 * [TypeScript/Deno](./console_TypeScript_Deno)
 * [kotlin](./console_kotlin)
-* [Go](./console_Go)
-* [Rust](./console_Rust)
 * [COBOL](./console_COBOL)
+* [PHP](./console_PHP)
+
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
 
