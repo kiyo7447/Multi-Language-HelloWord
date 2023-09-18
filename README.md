@@ -38,7 +38,7 @@
 * Windows UWP C#
 * Windows MAUI
 * Windows WPF C#
-* Ruby Rails
+* Ruby on Rails
 * PHP Laravel
 * Python
 * Python Flask
