@@ -38,7 +38,7 @@
 * Windows UWP C#
 * Windows MAUI
 * Windows WPF C#
-* Ruby Rails
+* Ruby on Rails
 * PHP Laravel
 * Python
 * Python Flask
@@ -50,8 +50,4 @@
 * TypeScript Node.js Express
 
 
-# 参考
-README.mdの書き方
-# インストール方法
 
-# 実行方法
