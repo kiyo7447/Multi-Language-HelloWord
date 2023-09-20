@@ -9,6 +9,7 @@
 * [Go](./console_Go)
 * [Java](./console_Java)
 * [JavaScript/node.js](./console_JavaScript_node.js)
+* [JavaScript/bun](./console_JavaScript_bun)
 * [TypeScript/Deno](./console_TypeScript_Deno)
 * [kotlin](./console_kotlin)
 * [COBOL](./console_COBOL)
