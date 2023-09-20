@@ -23,8 +23,8 @@ docker run --network host --interactive --name bun --tty --rm -v ${PWD}:/app -w 
 ```
 ## Windows Command Prompt
 ```cmd
-## -it
+REM -it
 docker run --network host --interactive --name bun --tty --rm -v %cd%:/app -w /app oven/bun bash
-## run
+REM run
 docker run --network host --interactive --name bun --tty --rm -v %cd%:/app -w /app oven/bun run hello.ts
 ```
