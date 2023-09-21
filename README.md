@@ -16,7 +16,16 @@
 * [PHP](./console_PHP)
 * [Ruby](./console_Ruby)
 * [swift](./console_swift)
+* [Perl](./console_Perl)
+### TODO
 * [Scala](./console_Scala)
+* [Haskell](./console_Haskell)
+* [Clojure](./console_Clojure)
+* [Elixir](./console_Elixir)
+* [Erlang](./console_Erlang)
+* [F#](./console_F%23)
+* [Julia](./console_Julia)
+* [Lua](./console_Lua)
 ## デスクトップアプリ
 * [Electron](./desktop_Electron)
 
