@@ -17,9 +17,9 @@
 * [Ruby](./console_Ruby)
 * [swift](./console_swift)
 * [Perl](./console_Perl)
-### TODO
 * [Scala](./console_Scala)
 * [Haskell](./console_Haskell)
+### TODO
 * [Clojure](./console_Clojure)
 * [Elixir](./console_Elixir)
 * [Erlang](./console_Erlang)
