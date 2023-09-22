@@ -19,8 +19,8 @@
 * [Perl](./console_Perl)
 * [Scala](./console_Scala)
 * [Haskell](./console_Haskell)
-### TODO
 * [Clojure](./console_Clojure)
+### TODO
 * [Elixir](./console_Elixir)
 * [Erlang](./console_Erlang)
 * [F#](./console_F%23)

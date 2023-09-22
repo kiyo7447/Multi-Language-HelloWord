@@ -1,0 +1,3 @@
+﻿# Clojureイメージをベースにする
+FROM clojure:lein
+
