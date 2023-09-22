@@ -21,8 +21,8 @@
 * [Haskell](./console_Haskell)
 * [Clojure](./console_Clojure)
 * [Elixir](./console_Elixir)
-### TODO
 * [Erlang](./console_Erlang)
+### TODO
 * [F#](./console_F%23)
 * [Julia](./console_Julia)
 * [Lua](./console_Lua)
