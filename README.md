@@ -20,8 +20,8 @@
 * [Scala](./console_Scala)
 * [Haskell](./console_Haskell)
 * [Clojure](./console_Clojure)
-### TODO
 * [Elixir](./console_Elixir)
+### TODO
 * [Erlang](./console_Erlang)
 * [F#](./console_F%23)
 * [Julia](./console_Julia)
